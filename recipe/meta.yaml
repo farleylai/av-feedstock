@@ -30,12 +30,12 @@ requirements:
     - pip
     - cython
     - numpy
-    - ffmpeg
+    - ffmpeg 4.1
     - pillow
   run:
     - python
     - numpy
-    - ffmpeg
+    - ffmpeg 4.1
     - pillow
 
 test:
